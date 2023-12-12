@@ -15,7 +15,7 @@ body {
 
 /*Headerstyles*/
 header {
-    background-color: #33333333;
+    background-color:darkkhaki;
     color: #fff;
     padding: 20px0;
     text-align: center;
@@ -54,7 +54,7 @@ header {
     margin-right: 20px;
 }
 .main-menu{
-    background-color: #000000;
+    background-color:#333;
 }
 .main-menu a {
     text-decoration: none;
@@ -71,27 +71,31 @@ header {
 /*Maincontentstyles*/
 main {
     padding: 40px0;
+    background-color:palegoldenrod
 }
 
 .container {
-    max-width: 960px;
+    max-width: 28980px;
     margin: 0auto;
     padding: 020px;
 }
 
 section {
     margin-bottom: 40px;
+    text-align: center;
 }
 
 h2 {
     font-size: 36px;
     margin-bottom: 20px;
     color: #333;
+    text-align: center;
 }
 
 p {
     font-size: 18px;
     color: #555;
+    text-align: center;
 }
 
 /*Footerstyles*/
